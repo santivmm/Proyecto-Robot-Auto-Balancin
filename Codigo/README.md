@@ -105,4 +105,4 @@ Esto permite depurar el comportamiento del robot en tiempo real.
 
 El archivo principal del programa se encuentra como:
 
-[Codigo/auto_balance_BB8.ino](Codigo/auto_balance_BB8.ino)
+[auto_balance_BB8.ino](auto_balance_BB8.ino)
